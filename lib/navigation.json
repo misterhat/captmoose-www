@@ -1,0 +1,52 @@
+[
+  {
+    "attr": {
+      "href": "",
+      "title": "take me home."
+    },
+    "emoji": "evergreen_tree"
+  },
+  {
+    "attr": {
+      "href": "make",
+      "title": "help save the moose population from extinction!"
+    },
+    "emoji": "art"
+  },
+  {
+    "attr": {
+      "href": "look",
+      "title": "scour the forest to discover beautiful meese..."
+    },
+    "emoji": "eyes"
+  },
+  {
+    "attr": {
+      "href": "favourites",
+      "title": "a collection of your prized meese."
+    },
+    "emoji": "revolving_hearts"
+  },
+  {
+    "attr": {
+      "href": "irc",
+      "title": "chat with your friends and show off your creations!"
+    },
+    "emoji": "speech_balloon"
+  },
+  {
+    "attr": {
+      "href": "stats",
+      "title": "fascinating numbers about the meese living here."
+    },
+    "emoji": "chart_with_upwards_trend"
+  },
+  {
+    "attr": {
+      "href": "info",
+      "rel": "jslicense",
+      "title": "anatomy and set-up directions."
+    },
+    "emoji": "book"
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "404": {
+    "nav": {
+      "active": null,
+      "title": "nothing to see here on"
+    }
+  },
+  "favourites": {
+    "nav": {
+      "active": "/favourites",
+      "title": "your favourite meese on"
+    }
+  },
+  "home": {
+    "nav": {
+      "active": "/" ,
+      "title": "welcome to"
+    }
+  },
+  "info": {
+    "nav": {
+      "active": "/info",
+      "title": "read about"
+    }
+  },
+  "irc": {
+    "nav": {
+      "active": "/irc",
+      "title": "chat w/ friends on"
+    }
+  },
+  "look": {
+    "nav": {
+      "active": "/look",
+      "title": "look @ meese on"
+    }
+  },
+  "make": {
+    "nav": {
+      "active": "/make",
+      "title": "make a moose on"
+    },
+    "make": {
+      "background": true,
+      "colour": 1,
+      "grid": false,
+      "name": "",
+      "painter": {
+          "dom": "",
+          "redoHistory": [],
+          "undoHistory": []
+      },
+      "painting": "",
+      "replace": "transparent",
+      "sending": false,
+      "tool": "pencil"
+    }
+  },
+  "stats": {
+    "nav": {
+      "active": "/stats" ,
+      "title": "numbers on"
+    }
+  }
+}

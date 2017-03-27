@@ -1,0 +1,72 @@
+[
+  {
+    "attr": {
+      "href": "https://www.gnu.org/licenses/agpl-3.0.en.html",
+      "title": "website licensed under the AGPL-3.0+ :copyright:"
+    },
+    "image": "agpl"
+  },
+  {
+    "attr": {
+      "href": "http://browserify.org/",
+      "title": "compiled using substack's browserify module :lightning:"
+    },
+    "image": "browserify"
+  },
+  {
+    "attr": {
+      "href": "http://bulma.io",
+      "title": "utilizing the Bulma CSS framework :frame_with_picture:"
+    },
+    "image": "bulma"
+  },
+  {
+    "attr": {
+      "href": "https://www.debian.org/intro/about",
+      "title": "hosted & developed on Debian GNU+Linux :penguin:"
+    },
+    "image": "debian"
+  },
+  {
+    "attr": {
+      "href": "https://developer.mozilla.org/en-US/",
+      "title": "friendly, thorough WWW documenation :globe_with_meridians:"
+    },
+    "image": "mdn"
+  },
+  {
+    "attr": {
+      "href": "https://nodejs.org/",
+      "title": "webserver running on Node.js :running:"
+    },
+    "image": "nodejs"
+  },
+  {
+    "attr": {
+      "href": "https://npmjs.org/",
+      "title": "modules shared on npm :gift:"
+    },
+    "image": "npm"
+  },
+  {
+    "attr": {
+      "href": "https://openclipart.org/",
+      "title": "clipart stolen from openclipart :scissors:"
+    },
+    "image": "openclipart"
+  },
+  {
+    "attr": {
+      "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "title": "moose pictures copyright CC-BY-SA 4.0 :copyright:"
+    },
+    "image": "sharealike"
+  },
+  {
+    "attr": {
+      "href": "https://sqlite.org/",
+      "title": "moose stored securely in SQLite :lock:"
+    },
+    "image": "sqlite"
+  }
+]
