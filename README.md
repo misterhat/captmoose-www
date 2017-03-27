@@ -1,19 +1,19 @@
-# captmoose-web
+# captmoose-www
 mimp (moose image manipulation program) & web frontend. create fun, grid-based
 pictures to share with your friends.
 
 *Check him out at [captmoose.club](http://captmoose.club)!*
 
 ## setup
-*captmoose-web* has been tested with [Debian GNU/Linux](https://debian.org).
+*captmoose-www* has been tested with [Debian GNU/Linux](https://debian.org).
 [download the ISO for free (~200 MB)](https://www.debian.org/CD/netinst/).
 
 1. install the system dependencies: `sudo apt install sqlite3 npm`
 
-2. install *captmoose-web* with [npm](https://npmjs.org):
-`npm install captmoose-web`
+2. install *captmoose-www* with [npm](https://npmjs.org):
+`npm install captmoose-www`
 
-3. navigate there: `cd node_modules/captmoose-web`
+3. navigate there: `cd node_modules/captmoose-www`
 
 4. make any desired changes to the configuration:
 `sensible-editor moose.json knexfile.js`
@@ -80,7 +80,7 @@ use modules & keep files under ~100 lines.
 * `app.js` is the webserver. This hosts all the static assets, as well as
 handling the interactions with the database.
 * `assets/` contains all of the static assets, including built ones. Edit
-`assets/style.css` for any *captmoose-web*-specific CSS.
+`assets/style.css` for any *captmoose-www*-specific CSS.
 * `browser.js` is the endpoint which is compiled & served to the browser.
 * `knexfile.js` is the
 [configuration file for Knex.js](http://knexjs.org/#knexfile). Adjust your SQL
